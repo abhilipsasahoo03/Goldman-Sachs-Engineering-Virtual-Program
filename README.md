@@ -59,7 +59,14 @@ password strength checker.
 
 5. Training users to follow these policies in order to keep their passwords safe. 
 
-This is basically what the content of my report is. However, below attached is a link to my report for your reference.
+This is basically what the content of my report is. However, below attached is a link to my report for your reference
+
 [Report]()
 
 Also, here is a chart that I made, containing username, corresponding hash, hashing technique followed and the decrypted password.
+
+![IMG_20220323_204625](https://user-images.githubusercontent.com/80174214/159733321-627ce644-21b5-424b-99b3-377623308f16.jpg)
+
+## Tools
+
+## Resources
