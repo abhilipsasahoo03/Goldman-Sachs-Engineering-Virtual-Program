@@ -61,12 +61,32 @@ password strength checker.
 
 This is basically what the content of my report is. However, below attached is a link to my report for your reference
 
-[Report]()
+[Report](https://www.dropbox.com/s/nqeuewn3nipulje/GS_MODULE1_TASK.docx?dl=0)
 
-Also, here is a chart that I made, containing username, corresponding hash, hashing technique followed and the decrypted password.
+Also, here is a chart that I made, containing username, corresponding hash, hashing function followed and the decrypted password.
 
 ![IMG_20220323_204625](https://user-images.githubusercontent.com/80174214/159733321-627ce644-21b5-424b-99b3-377623308f16.jpg)
 
+Here is the link to the Password Dump:
+[Password Dump](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt)
+
 ## Tools
 
+• https://hashcat.net/hashcat/
+
+• https://dcode.fr/hash-function.com/
+
+• https://crackstation.net/
+
+• https://en.wikipedia.org/wiki/Password_cracking#Software
+
+
 ## Resources
+
+• https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+
+• https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+• https://en.wikipedia.org/wiki/Cryptographic_hash_function
+  
+• https://howsecureismypassword.net/
